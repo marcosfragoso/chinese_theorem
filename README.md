@@ -1,2 +1,3 @@
 # chinese_theorem
-Algorithm of the Chinese Remainder Theorem, created as a tool for correction of exercises on the content.
+
+Algorítmo do Teorema do Resto Chinês, criado como ferramenta para correção de exercícios sobre o conteúdo.
