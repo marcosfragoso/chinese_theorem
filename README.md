@@ -18,7 +18,7 @@ Onde x é a incógnita que queremos encontrar e a₁, a₂, ..., aₙ são os re
 
 O teorema chinês do resto é amplamente utilizado na teoria dos números, criptografia e ciência da computação, pois permite a resolução eficiente de sistemas de congruências lineares. Ele também tem aplicações práticas, como na aritmética de relógios, calendários e na correção de erros em comunicações digitais.
 ## Inspiração
-O projeto surgiu como ferramente para facilitar na correção de exercícios da disciplina de Matemática Discreta do curso de Ciências da Computação da Universidade Federal de Campina Grande.
+O projeto surgiu como ferramenta para facilitar na correção de exercícios da disciplina de Matemática Discreta do curso de Ciências da Computação da Universidade Federal de Campina Grande.
 ## Desenvolvedores
 @marcosfragoso
 
